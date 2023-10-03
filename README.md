@@ -1,4 +1,4 @@
-# Basic Firebase CRUD Product Inventory
+# Simple Firebase CRUD Product Inventory
 
 CRUD transactions with Firebase
 
