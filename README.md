@@ -1,16 +1,7 @@
-# basic_firebase_crud_product_inventory
+# Basic Firebase CRUD Product Inventory
 
-A new Flutter project.
+CRUD transactions with Firebase
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Basic_Firebase_CRUD_ProductInventory/assets/146417248/8b04b1a5-c40d-410f-8130-5ec422f2d842)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Basic_Firebase_CRUD_ProductInventory/assets/146417248/10c71093-b958-49a3-97ed-497a7e0b3178)
